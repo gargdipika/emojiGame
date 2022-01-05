@@ -1,0 +1,28 @@
+/* Write your code here. */
+.nav-style {
+  background-color: #9796f0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60vw;
+}
+.heading-nav {
+  display: flex;
+}
+.score-card {
+  display: flex;
+}
+.heading {
+  font-size: 15px;
+  color: white;
+}
+.image {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+}
+.score-style {
+  font-size: 12px;
+  margin-right: 10px;
+  color: white;
+}
